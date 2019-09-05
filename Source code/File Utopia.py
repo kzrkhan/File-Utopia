@@ -1,4 +1,4 @@
-#FileUtopia is a silent file manager that works in the background to arranfe your files in Downloads folder
+#FileUtopia is a silent file manager that works in the background to arrange your files in Downloads folder
 #according to their extensions. For example, all image files will be automatically be moved to the Pictures folder
 #in Library section. Similar for video files, they will be automatically moved to the Videos folder in library
 #section.
